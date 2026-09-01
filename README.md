@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0268-missing-number) |
+| [0476-number-complement](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0476-number-complement) |
 ## Sorting
 |  |
 | ------- |
