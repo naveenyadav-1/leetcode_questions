@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveenyadav-1/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveenyadav-1/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -30,6 +32,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,9 +42,14 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/naveenyadav-1/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
