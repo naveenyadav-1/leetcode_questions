@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0904-fruit-into-baskets) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
@@ -54,5 +56,6 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
