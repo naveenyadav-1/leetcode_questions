@@ -58,4 +58,8 @@
 | [0015-3sum](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
