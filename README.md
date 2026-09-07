@@ -63,8 +63,13 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
