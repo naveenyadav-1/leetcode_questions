@@ -59,6 +59,7 @@
 | [0015-3sum](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
@@ -66,6 +67,7 @@
 | [0141-linked-list-cycle](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0707-design-linked-list) |
 ## Recursion
@@ -73,6 +75,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -81,4 +84,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/naveenyadav-1/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
